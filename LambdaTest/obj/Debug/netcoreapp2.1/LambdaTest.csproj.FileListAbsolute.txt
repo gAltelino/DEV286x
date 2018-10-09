@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV286x/LambdaTest/bin/Debug/netcoreapp2.1/LambdaTest.deps.json
+/home/altrunox/Documents/DEV286x/LambdaTest/bin/Debug/netcoreapp2.1/LambdaTest.runtimeconfig.json
+/home/altrunox/Documents/DEV286x/LambdaTest/bin/Debug/netcoreapp2.1/LambdaTest.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV286x/LambdaTest/bin/Debug/netcoreapp2.1/LambdaTest.dll
+/home/altrunox/Documents/DEV286x/LambdaTest/bin/Debug/netcoreapp2.1/LambdaTest.pdb
+/home/altrunox/Documents/DEV286x/LambdaTest/obj/Debug/netcoreapp2.1/LambdaTest.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV286x/LambdaTest/obj/Debug/netcoreapp2.1/LambdaTest.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV286x/LambdaTest/obj/Debug/netcoreapp2.1/LambdaTest.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV286x/LambdaTest/obj/Debug/netcoreapp2.1/LambdaTest.AssemblyInfo.cs
+/home/altrunox/Documents/DEV286x/LambdaTest/obj/Debug/netcoreapp2.1/LambdaTest.dll
+/home/altrunox/Documents/DEV286x/LambdaTest/obj/Debug/netcoreapp2.1/LambdaTest.pdb

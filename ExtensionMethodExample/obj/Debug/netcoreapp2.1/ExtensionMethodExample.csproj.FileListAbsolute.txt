@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV286x/ExtensionMethodExample/bin/Debug/netcoreapp2.1/ExtensionMethodExample.deps.json
+/home/altrunox/Documents/DEV286x/ExtensionMethodExample/bin/Debug/netcoreapp2.1/ExtensionMethodExample.runtimeconfig.json
+/home/altrunox/Documents/DEV286x/ExtensionMethodExample/bin/Debug/netcoreapp2.1/ExtensionMethodExample.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV286x/ExtensionMethodExample/bin/Debug/netcoreapp2.1/ExtensionMethodExample.dll
+/home/altrunox/Documents/DEV286x/ExtensionMethodExample/bin/Debug/netcoreapp2.1/ExtensionMethodExample.pdb
+/home/altrunox/Documents/DEV286x/ExtensionMethodExample/obj/Debug/netcoreapp2.1/ExtensionMethodExample.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV286x/ExtensionMethodExample/obj/Debug/netcoreapp2.1/ExtensionMethodExample.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV286x/ExtensionMethodExample/obj/Debug/netcoreapp2.1/ExtensionMethodExample.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV286x/ExtensionMethodExample/obj/Debug/netcoreapp2.1/ExtensionMethodExample.AssemblyInfo.cs
+/home/altrunox/Documents/DEV286x/ExtensionMethodExample/obj/Debug/netcoreapp2.1/ExtensionMethodExample.dll
+/home/altrunox/Documents/DEV286x/ExtensionMethodExample/obj/Debug/netcoreapp2.1/ExtensionMethodExample.pdb
