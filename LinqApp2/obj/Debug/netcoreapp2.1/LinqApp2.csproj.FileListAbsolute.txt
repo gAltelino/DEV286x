@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV286x/LinqApp2/obj/Debug/netcoreapp2.1/LinqApp2.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV286x/LinqApp2/obj/Debug/netcoreapp2.1/LinqApp2.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV286x/LinqApp2/obj/Debug/netcoreapp2.1/LinqApp2.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV286x/LinqApp2/obj/Debug/netcoreapp2.1/LinqApp2.AssemblyInfo.cs
+/home/altrunox/Documents/DEV286x/LinqApp2/bin/Debug/netcoreapp2.1/LinqApp2.deps.json
+/home/altrunox/Documents/DEV286x/LinqApp2/bin/Debug/netcoreapp2.1/LinqApp2.runtimeconfig.json
+/home/altrunox/Documents/DEV286x/LinqApp2/bin/Debug/netcoreapp2.1/LinqApp2.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV286x/LinqApp2/bin/Debug/netcoreapp2.1/LinqApp2.dll
+/home/altrunox/Documents/DEV286x/LinqApp2/bin/Debug/netcoreapp2.1/LinqApp2.pdb
+/home/altrunox/Documents/DEV286x/LinqApp2/obj/Debug/netcoreapp2.1/LinqApp2.dll
+/home/altrunox/Documents/DEV286x/LinqApp2/obj/Debug/netcoreapp2.1/LinqApp2.pdb

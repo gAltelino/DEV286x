@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV286x/FunctionDelegateExample/bin/Debug/netcoreapp2.1/FunctionDelegateExample.deps.json
+/home/altrunox/Documents/DEV286x/FunctionDelegateExample/bin/Debug/netcoreapp2.1/FunctionDelegateExample.runtimeconfig.json
+/home/altrunox/Documents/DEV286x/FunctionDelegateExample/bin/Debug/netcoreapp2.1/FunctionDelegateExample.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV286x/FunctionDelegateExample/bin/Debug/netcoreapp2.1/FunctionDelegateExample.dll
+/home/altrunox/Documents/DEV286x/FunctionDelegateExample/bin/Debug/netcoreapp2.1/FunctionDelegateExample.pdb
+/home/altrunox/Documents/DEV286x/FunctionDelegateExample/obj/Debug/netcoreapp2.1/FunctionDelegateExample.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV286x/FunctionDelegateExample/obj/Debug/netcoreapp2.1/FunctionDelegateExample.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV286x/FunctionDelegateExample/obj/Debug/netcoreapp2.1/FunctionDelegateExample.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV286x/FunctionDelegateExample/obj/Debug/netcoreapp2.1/FunctionDelegateExample.AssemblyInfo.cs
+/home/altrunox/Documents/DEV286x/FunctionDelegateExample/obj/Debug/netcoreapp2.1/FunctionDelegateExample.dll
+/home/altrunox/Documents/DEV286x/FunctionDelegateExample/obj/Debug/netcoreapp2.1/FunctionDelegateExample.pdb
