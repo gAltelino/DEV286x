@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV286x/SelfFluentAPI/bin/Debug/netcoreapp2.1/SelfFluentAPI.deps.json
+/home/altrunox/Documents/DEV286x/SelfFluentAPI/bin/Debug/netcoreapp2.1/SelfFluentAPI.runtimeconfig.json
+/home/altrunox/Documents/DEV286x/SelfFluentAPI/bin/Debug/netcoreapp2.1/SelfFluentAPI.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV286x/SelfFluentAPI/bin/Debug/netcoreapp2.1/SelfFluentAPI.dll
+/home/altrunox/Documents/DEV286x/SelfFluentAPI/bin/Debug/netcoreapp2.1/SelfFluentAPI.pdb
+/home/altrunox/Documents/DEV286x/SelfFluentAPI/obj/Debug/netcoreapp2.1/SelfFluentAPI.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV286x/SelfFluentAPI/obj/Debug/netcoreapp2.1/SelfFluentAPI.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV286x/SelfFluentAPI/obj/Debug/netcoreapp2.1/SelfFluentAPI.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV286x/SelfFluentAPI/obj/Debug/netcoreapp2.1/SelfFluentAPI.AssemblyInfo.cs
+/home/altrunox/Documents/DEV286x/SelfFluentAPI/obj/Debug/netcoreapp2.1/SelfFluentAPI.dll
+/home/altrunox/Documents/DEV286x/SelfFluentAPI/obj/Debug/netcoreapp2.1/SelfFluentAPI.pdb

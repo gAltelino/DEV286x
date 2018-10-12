@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV286x/LinqTesting/bin/Debug/netcoreapp2.1/LinqTesting.deps.json
+/home/altrunox/Documents/DEV286x/LinqTesting/bin/Debug/netcoreapp2.1/LinqTesting.runtimeconfig.json
+/home/altrunox/Documents/DEV286x/LinqTesting/bin/Debug/netcoreapp2.1/LinqTesting.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV286x/LinqTesting/bin/Debug/netcoreapp2.1/LinqTesting.dll
+/home/altrunox/Documents/DEV286x/LinqTesting/bin/Debug/netcoreapp2.1/LinqTesting.pdb
+/home/altrunox/Documents/DEV286x/LinqTesting/obj/Debug/netcoreapp2.1/LinqTesting.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV286x/LinqTesting/obj/Debug/netcoreapp2.1/LinqTesting.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV286x/LinqTesting/obj/Debug/netcoreapp2.1/LinqTesting.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV286x/LinqTesting/obj/Debug/netcoreapp2.1/LinqTesting.AssemblyInfo.cs
+/home/altrunox/Documents/DEV286x/LinqTesting/obj/Debug/netcoreapp2.1/LinqTesting.dll
+/home/altrunox/Documents/DEV286x/LinqTesting/obj/Debug/netcoreapp2.1/LinqTesting.pdb
