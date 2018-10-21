@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+using LinqTesting2.Models;
 
 namespace LinqTesting2
 {
@@ -6,7 +8,15 @@ namespace LinqTesting2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //using the mysql world database as testing
+            var dbContext = new WorldContext();
+            var countries = dbContext.Country.ToList();
+
+            foreach (var item in countries)
+            {
+                System.Console.WriteLine(item.Name + " " + item.Capital);
+            }
+
         }
     }
 }
